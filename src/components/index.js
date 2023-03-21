@@ -1,0 +1,5 @@
+export { default as Navbar } from './Navbar'
+export { default as Footer } from './Footer'
+export { default as ReadyToStart } from './ReadyToStart'
+export { default as Partners } from './Partners'
+export { default as Features } from './Features'
